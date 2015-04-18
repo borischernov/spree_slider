@@ -1,0 +1,3 @@
+<!-- insert_bottom '#sidebar-configuration'
+    original '5a3198a5d42be047154e101c69588274d1125af6' -->
+<%= configurations_sidebar_menu_item t('spree_slider.config_name'), admin_slides_path %>
